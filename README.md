@@ -14,6 +14,10 @@ Nós pedimos para que o Docente Dione Ferrari, da Fatec de presidente prudente n
 <ul>
 	<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20"/> Visual Studio Code</li>
 </ul>	
+<h1>PDF gerado do contrato termo de compromisso</h1>
+<img src="https://github.com/kevenescovedo/modulo_gerador_pdf_estagio_fatecpp/blob/master/Exemplo_pdf_gerado/Contrato_Compromico_PDF_Gerado.png"/>
+<h1>PDF gerado do contrato de convenio</h1>
+<img src="https://github.com/kevenescovedo/modulo_gerador_pdf_estagio_fatecpp/blob/master/Exemplo_pdf_gerado/Contrato_Convenio_PDF_Gerado.png"/>
 
 ## Autores
 - [@edsonbilla](https://www.github.com/edsonbila)
