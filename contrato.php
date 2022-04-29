@@ -497,30 +497,4 @@ class TermoConvenio extends Contracto {
             $dompdf->stream($fileName,["Attachment" => false]);
         }
     }
-
-$contratoCompromisso = new TermoConvenio();
-
-$contratoCompromisso->razaoSocial = "Coca Cola Indústrias Ltd";
-$contratoCompromisso->cnpjEmpresa = "11.287.551/0001-02";
-$contratoCompromisso->nomeEstagiario = "Dione Ferrari da italia";
-$contratoCompromisso->rgEstagiario = "57.084.574-X";
-$contratoCompromisso->enderecoEstagiario = "Rua Luis Carlos Ferrari";
-$contratoCompromisso->horarioSemanal = "4";
-$contratoCompromisso->totalHorasSemanais = "20 ";
-$contratoCompromisso->dataInicio = '24/04/2022';
-$contratoCompromisso->dataFim = "24/04/2023";
-$contratoCompromisso->apoliceSeguro = "12-32-567-890";
-$contratoCompromisso->nomeSeguradora = "Porto Seguro";
-$contratoCompromisso->nomeRepresentanteEmpresa = "Edilson da Silva";
-$contratoCompromisso->nomeOrientador = "Zé povinho da silva";
-$contratoCompromisso->atividadesEstagio = "Tudo e muitos mais";
-$contratoCompromisso->dataInicioContrato = "03/04/2022";
-
-$contratoCompromisso->enderecoEmpresa = "Rua Matilde Rosas Brancas";
-$contratoCompromisso->data = "07/03/2022";
-$contratoCompromisso->rgOrientadorEstagio = "45.852.156-X";
-$contratoCompromisso->nomeCordenadorCurso = "keven de Oliveira";
-$contratoCompromisso->rgCordenadorCurso = "85.24.654-X";
-
-$contratoCompromisso->gerarPDF("TermoCompromissoEstagio");
 ?>
