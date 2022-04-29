@@ -94,7 +94,7 @@ $termoConvenio->rgCordenadorCurso = "85.24.654-X";
 //que deseja e já irá mostrar na tela o seu gerarPDF
 
 $termoConvenio->gerarPDF("TermoConvenio");
-$termoCompromisso->gerarPDF("TermoConvenio");
+$termoCompromisso->gerarPDF("TermoCompromisso");
 
 
 
