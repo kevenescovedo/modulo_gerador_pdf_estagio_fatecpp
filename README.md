@@ -2,6 +2,18 @@
 módulo que gera PDFs de termo de compromisso e convênio  relacionados com a dicsiplina de estágio na fatec de presidente prudente , desenvolvido em PHP
 Nós pedimos para que o Docente Dione Ferrari, da Fatec de presidente prudente nos passasse um projeto então ele nos passou este tarefa, que será integrado no sistema real da FATEC
 
+<h3>LINGUAGENS UTILIZADAS</h3>
+<p>Foram usadas na construção do projeto:</p>
+<ul>
+	<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/> HTML</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/> CSS</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" height="20"/> PHP</li>
+</ul>
+<h3>FERRAMENTAS UTILIZADAS</h3>
+<p>As seguintes ferramentas foram usadas na construção do projeto:</p>
+<ul>
+	<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20"/> Visual Studio Code</li>
+</ul>	
 
 ## Autores
 - [@edsonbilla](https://www.github.com/edsonbila)
